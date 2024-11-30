@@ -20,4 +20,11 @@ hello
 9.1   commit
 
 10th commit
+<<<<<<< HEAD
 10.1 commit line
+=======
+10000000
+1000000
+
+11th commit line
+>>>>>>> becbb9c8c9718558f7611ce7fe91221032a35029
